@@ -1,0 +1,14 @@
+C:\Algorithm Timer\AlgorithmTimer\bin\Debug\net10.0\AlgorithmTimer.exe
+C:\Algorithm Timer\AlgorithmTimer\bin\Debug\net10.0\AlgorithmTimer.deps.json
+C:\Algorithm Timer\AlgorithmTimer\bin\Debug\net10.0\AlgorithmTimer.runtimeconfig.json
+C:\Algorithm Timer\AlgorithmTimer\bin\Debug\net10.0\AlgorithmTimer.dll
+C:\Algorithm Timer\AlgorithmTimer\bin\Debug\net10.0\AlgorithmTimer.pdb
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\AlgorithmTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\AlgorithmTimer.AssemblyInfoInputs.cache
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\AlgorithmTimer.AssemblyInfo.cs
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\AlgorithmTimer.csproj.CoreCompileInputs.cache
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\AlgorithmTimer.dll
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\refint\AlgorithmTimer.dll
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\AlgorithmTimer.pdb
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\AlgorithmTimer.genruntimeconfig.cache
+C:\Algorithm Timer\AlgorithmTimer\obj\Debug\net10.0\ref\AlgorithmTimer.dll
