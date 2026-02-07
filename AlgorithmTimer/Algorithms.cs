@@ -5,7 +5,7 @@ namespace AlgorithmTimer
 {
     internal class Algorithms
     {
-       static public Action<int[]>[] actions = [BubbleSort];
+       static public Action<int[]>[] actions = [BubbleSort, SelectionSort, InsertionSort, MergeSort, QuickSort, HeapSort, RadixSort, BucketSort, ShellSort, CountingSort];
         
         static public void BubbleSort(int[] inputs)
         {
@@ -26,6 +26,60 @@ namespace AlgorithmTimer
                 if(!swaped){break;}
             }
         }
+        static public void SelectionSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine(); 
+        }
+
+        static public void InsertionSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine(); 
+        }
+
+        static public void MergeSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine();
+        }
+
+        static public void QuickSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine();
+        }
+
+        static public void HeapSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine();
+        }
+
+        static public void RadixSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine();
+        }
+
+        static public void BucketSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine();
+        }
+
+        static public void ShellSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine();
+        }
+
+        static public void CountingSort(int[] inputs)
+        {
+            System.Console.WriteLine("To be implemented");
+            Console.ReadLine();
+        }
+
         
     }
 }
