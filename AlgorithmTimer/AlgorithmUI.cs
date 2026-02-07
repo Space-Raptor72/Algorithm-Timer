@@ -30,5 +30,15 @@ namespace AlgorithmTimer
                 
             }
         }
+
+        public void Displaytimes(int selected, long[] times, int num_inputs)
+        {
+            Console.Clear();
+            System.Console.WriteLine($"Number of Tests: {times.Length}");
+            System.Console.WriteLine($"Number of Inputs: 10,000");
+            System.Console.WriteLine($"Average Time: {times.Average()}ms");
+            System.Console.WriteLine("Press any key to return to the menu");
+            Console.ReadLine(); 
+        }
     }
 }
